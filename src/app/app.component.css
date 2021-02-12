@@ -51,14 +51,11 @@ body{
 
 
 
-
-
-
-
-
 #carousel-1{
     background-color: white;
     margin: 20px;
+
+
 }
 #carousel-1 img{
     margin: 7px;
@@ -67,3 +64,7 @@ body{
 #carousel-1 img:first-child{
     margin-left: 19px;
 }
+
+
+
+/*Footer*/
